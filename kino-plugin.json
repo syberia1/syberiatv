@@ -1,10 +1,10 @@
 {
   "id": "syberiatv-theme",
   "name": "SYBERIATV",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "apiVersion": 18,
   "entry": "plugin.js",
-  "description": "Tema oscuro liquid glass con degradado fucsia/rosado y logo SYBERIATV.",
+  "description": "Tema liquid glass negro y fucsia. Logo de Kino con toques fucsia.",
   "author": "community",
   "hosts": [],
   "categories": [
@@ -88,42 +88,22 @@
         "buttonShape": "rounded"
       },
       "logo": {
-        "mark": {
-          "size": [
-            40,
-            40
-          ],
+        "decor": {
           "paths": [
             {
-              "d": "M7 15 C7 5 14 1 20 1 C26 1 33 5 33 15 C35 17 37 23 35 29 C31 37 25 39 20 39 C15 39 9 37 5 29 C3 23 5 17 7 15 Z",
+              "d": "M0 -108 A108 108 0 1 1 0 108 A108 108 0 1 1 0 -108 Z M0 -92 A92 92 0 1 0 0 92 A92 92 0 1 0 0 -92 Z",
               "fill": "accent"
             },
             {
-              "d": "M14 15 C14 11 26 11 26 16 C26 26 22 31 20 31 C18 31 14 26 14 16 Z",
-              "fill": "onAccent"
-            },
-            {
-              "d": "M16.5 19.5 C16.5 18.5 18 18.5 18 19.5 C18 20.5 16.5 20.5 16.5 19.5 Z M22 19.5 C22 18.5 23.5 18.5 23.5 19.5 C23.5 20.5 22 20.5 22 19.5 Z",
+              "d": "M-6 -130 A8 8 0 1 1 6 -130 A8 8 0 1 1 -6 -130 Z",
               "fill": "accent"
             },
             {
-              "d": "M17 25 Q20 28 23 25",
+              "d": "M118 -20 L124 -8 L136 -6 L124 2 L118 14 L112 2 L100 -6 L112 -8 Z",
               "fill": "accent"
-            }
-          ]
-        },
-        "wordmark": {
-          "size": [
-            210,
-            34
-          ],
-          "paths": [
-            {
-              "d": "M2 8 C2 5 6 3 11 3 C16 3 19 5 19 8 C19 11 16 12 12 13 C8 14 6 15 6 18 C6 21 9 23 14 23 C18 23 21 21 22 19 M28 3 L34 14 L40 3 L46 3 L38 16 L38 23 L30 23 L30 16 L22 3 Z M50 3 H60 C65 3 68 6 68 10 C68 13 66 15 63 15.5 C67 16 70 18 70 22 C70 26 66 29 60 29 H50 V3 Z M76 3 H92 V8 H81 V12 H90 V17 H81 V21 H92 V26 H76 V3 Z M98 3 H110 C116 3 119 7 119 12 C119 16 116 19 112 20 L120 29 H113 L106 21 H103 V29 H98 V3 Z M126 3 H132 V29 H126 V3 Z M138 29 L146 3 H154 L162 29 H155 L153 22 H147 L145 29 Z M168 3 H188 V8 H181 V29 H175 V8 H168 V3 Z M192 3 L200 29 H206 L214 3 H207 L203 18 L199 3 Z",
-              "fill": "textPrimary"
             },
             {
-              "d": "M2 31 H214 V33 H2 Z",
+              "d": "M-70 100 Q0 130 70 100 Q0 118 -70 100 Z",
               "fill": "accent"
             }
           ]

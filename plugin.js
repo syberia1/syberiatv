@@ -32,8 +32,8 @@ export async function screen(args) {
         {
           type: "Text",
           text: on
-            ? "Tema activo: negro, degradado fucsia y estilo liquid glass."
-            : "Tema oscuro liquid glass: negro, degradado fucsia/rosado, bordes muy redondeados y barra de reproducción destacada.",
+            ? "Tema activo: logo de Kino con toques fucsia, fondo negro y liquid glass."
+            : "Tema oscuro liquid glass: logo de Kino con acentos fucsia, degradado rosado, bordes redondeados y barra de reproducción destacada.",
           style: "bodyMedium",
           color: "#E0A8C8"
         },
