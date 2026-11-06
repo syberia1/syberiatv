@@ -1,13 +1,21 @@
-# SYBERIATV Theme for Kino
+# SYBERIATV Theme for Kino (v1.5.0)
 
-Tema de aplicación (apiVersion 18):
+Tema de aplicación (apiVersion 18). Logo de Kino **sin modificar**.
 
-- Logo **original de Kino** con toques fucsia (`decor`)
-- Fondo negro con degradado fucsia/rosado
-- Bordes muy redondeados (liquid glass)
-- Barra de reproducción ampliada y botones rounded
+## Variantes
+1. **SYBERIATV** — neon fucsia, liquid glass intenso
+2. **SYBERIATV Suave** — misma familia, más discreto
+
+## Qué estiliza
+- Colores (acento, superficies, bordes, focus, favoritos…)
+- Fondo en degradado
+- Radios de tarjetas, botones, chips, diálogos
+- Tipografía
+- Sombras / scrim
+- Motion (zoom al foco, crossfade, hero drift)
+- Player (seek grueso, botones rounded, escalas)
+- Overrides TV vs teléfono
+- Tokens ajustables por el usuario
 
 ## Uso
-1. Instala el plugin en Kino (≥ 0.9.81)
-2. Ábrelo y pulsa **Activar SYBERIATV**
-3. Acepta la experiencia completa si Kino lo pide
+Kino ≥ 0.9.81 → instalar → abrir plugin → activar variante.
